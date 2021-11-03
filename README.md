@@ -1,6 +1,6 @@
 # Click, a Command-line Parsing Package for Python
-A talk to be given at the Python WA meetup on
-[2021-11-04](https://www.meetup.com/pythonwa)
+A talk to be given at the [Python WA](https://www.meetup.com/pythonwa) meetup on
+[2021-11-04](https://www.meetup.com/pythonwa/events/281673788/)
 
 ## Blurb
 
