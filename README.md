@@ -24,11 +24,23 @@ tool using setup.py packaging, with entry points.
 ## Outline
 
   1. Introduction
+  1. Click rationale
+  1. The basics
   1. Options
       1. Boolean options
       1. Options with parameters
+      1. Integer options
+      1. Counting options
+      1. Mandatory options
+      1. Choice options
+      1. File path options
+      1. File handle options
+      1. Multi-string options
+      1. Password option
+      1. Prompting when an option is missing
   1. Positional parameters
       1. Lists of parameters
+      1. Variable numbers of parameters
   1. Click types
   1. Subcommands
   1. Contexts
@@ -53,4 +65,4 @@ guru@warpspace.net
 
 ## Slides
 
-**TBA**
+[Python-Click-talk slides.odp](Python-Click-talk slides.odp)
