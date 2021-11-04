@@ -21,6 +21,8 @@ option specifications.
 This talk will give an overview of how to create a Python command-line
 tool using setup.py packaging, with entry points.
 
+https://click.palletsprojects.com
+
 ## Outline
 
   1. Introduction
